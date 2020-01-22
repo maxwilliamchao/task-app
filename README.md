@@ -9,5 +9,5 @@
 
 <img width="1678" alt="Screen Shot 2020-01-22 at 10 00 14 AM" src="https://user-images.githubusercontent.com/29391132/72920397-0b781400-3cfe-11ea-9bd5-327b6ee4fc40.png">
 
-The password is 12345 and the one below is after hashing
+The password is 12345 and the one below is after hashing.  In backend/Main.js, I also tried setting database: 'myapp' but got the same error
 <img width="1678" alt="Screen Shot 2020-01-22 at 10 02 24 AM" src="https://user-images.githubusercontent.com/29391132/72920540-5c880800-3cfe-11ea-8b02-24e208554fc1.png">
