@@ -1,6 +1,6 @@
 # task-app
 
-# For now, navigate to the frontend folder and npm start
+# For now, navigate to the directory, "frontend" and npm start
 
 <img width="1678" alt="Screen Shot 2020-01-22 at 7 54 27 AM" src="https://user-images.githubusercontent.com/29391132/72910146-f8a91380-3cec-11ea-868e-4d06fdea6aad.png">
 
